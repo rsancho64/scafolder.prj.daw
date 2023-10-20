@@ -1,7 +1,8 @@
 # scafolder.prj.daw
-estructura de proyecto para daw ies rio arba curso 23-24
 
+Estructura de proyecto para daw ies rio arba curso 23-24
 
-- ANALISIS.md
-- DISEÑO.md
-- folder: CODE
+- [x] ANALISIS.md
+- [x] DISEÑO.md
+- [x] folder: CODE
+- [x] folder: DOC
